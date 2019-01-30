@@ -1,5 +1,4 @@
 # RT_TrafficSigns_Rec_Keras
 
 This is a project based on Keras framework. The project is aimed to create a Real-time Traffic Signs recognition using a webcam.
-This CNN model is based on a past winner of Kaggle contest for Face Expression Recognition.
-https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
+This CNN architecture is inspired by the following work on Facial Expression Recognition: https://github.com/jrishabh96/Facial-Expression-Recognition
